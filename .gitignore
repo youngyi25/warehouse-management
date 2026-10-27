@@ -37,3 +37,10 @@ dump.rdb
 .env
 .env.local
 *.env
+
+# AI 工具本地配置
+.workbuddy/
+.codex/
+.claude/
+AGENTS.md
+CLAUDE.md
